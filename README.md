@@ -19,10 +19,10 @@ software that solves a concrete problem and measurably improves on what it repla
   Gemini 2.5 Flash generating state-specific program catalogs on demand.
 
 ### 🧰 Tools I use
-  **Languages:** Java · TypeScript · Python · C · SQL · HTML/CSS
-  **Frameworks:** React · Node.js · FastAPI · Streamlit · JUnit
-  **Tools & platforms:** Firebase · SQLite · Git · Vite · pytest · VS Code · IntelliJ
-  **Building with AI:** Claude Code · MCP · Skills
+- **Languages:** Java · TypeScript · Python · C · SQL · HTML/CSS
+- **Frameworks:** React · Node.js · FastAPI · Streamlit · JUnit
+- **Tools & platforms:** Firebase · SQLite · Git · Vite · pytest · VS Code · IntelliJ
+- **Building with AI:** Claude Code · MCP · Skills
 
 ### 📫 How to reach me
 - ✉️ pierevco@gmail.com

@@ -26,4 +26,3 @@ software that solves a concrete problem and measurably improves on what it repla
 
 ### 📫 How to reach me
 - ✉️ pierevco@gmail.com
-- 💼 [linkedin.com/in/piero-evangelista](https://linkedin.com/in/piero-evangelista)

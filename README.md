@@ -6,7 +6,7 @@
 
 ### 👋 Who I am
 I'm a Computer Engineering student at UVA who learns by building. I care about
-software that solves a concrete problem and measurably improves on what it replaces faster workflows, clearer data, less friction for the user.****
+software that solves a concrete problem and measurably improves on what it replaces: faster workflows, clearer data, less friction for the user.
 
 ### 🛠️ What I've worked on
 - SpeakToDeck — a personalized vocab tool that turns spoken daily-life audio into

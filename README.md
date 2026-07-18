@@ -18,9 +18,10 @@ software that solves a concrete problem and measurably improves on what it repla
 
 ### 🧰 Tools I use
 - **Languages:** Java · C/C++ · Python · TypeScript · SQL · HTML/CSS
-- **Frameworks:** React · Node.js · FastAPI · Streamlit · PyTorch
-- **Tools & platforms:** Firebase · Qdrant · Ollama · SQLite · Git · Vite · pytest · VS Code · IntelliJ
-- **Building with AI:** Claude Code · MCPs · Skills · Agents
+- **AI/ML:** RAG · PyTorch · Diffusion Models · Qdrant · BGE-M3 · Whisper · faster-whisper · LLM Guardrails
+- **Frameworks:** React.js · Node.js · FastAPI · React Native (Expo) · Streamlit · REST APIs
+- **Developer Tools:** Git · GitHub Actions · Docker · Firebase · SQLite · AWS · Playwright · pytest · Vite
+- **AI Developer Tools:** Claude Code · MCPs · Skills · Agents
 
 ### 📫 How to reach me
 - ✉️ pierevco@gmail.com

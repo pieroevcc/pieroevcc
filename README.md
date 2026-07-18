@@ -9,19 +9,17 @@ I'm a Computer Engineering student at UVA who learns by building. I care about
 software that solves a concrete problem and measurably improves on what it replaces: faster workflows, clearer data, less friction for the user.
 
 ### 🛠️ What I've worked on
-- **SpeakToDeck** — a personalized vocab tool that turns spoken daily-life audio into
-  translated, interest-tagged flashcards. Built with Python + Streamlit + local-LLM APIs.
-- **Basketball Shot Tracker** — full-stack sports-analytics web app (React · TypeScript ·
-  Firebase Firestore) that replaced a 35-step Google Forms workflow and cut data-entry time
-  using a click-based court UI and real-time sync.
-- **Benefits Digger** *(hackathon)* — full-stack benefits-eligibility screener (FastAPI ·
-  SQLite/SQLAlchemy · Vanilla JS) with a multi-factor explainability breakdown and Google
-  Gemini 2.5 Flash generating state-specific program catalogs on demand.
+- **ProbabilityRAG** — Local-first RAG tutor over Grinstead & Snell probability text. Features BGE-M3 hybrid search, Qdrant vector DB, and intelligent reranking. Full-stack with FastAPI backend and React frontend, running Ollama for on-device inference.
+- **Basketball Shot Tracker** — Real-time multiplayer web app where kids play a tabletop basketball game and turn their shots into heat maps and stats, teaching data science by playing. Built with React · TypeScript · Firebase Firestore. Replaced a 35-step Google Forms workflow and cut data-entry time using a click-based court UI.
+- **MNISTDigitsToGIF** — Video diffusion model for generating MNIST digit animations on a consumer GPU, implemented from scratch with PyTorch. Explores generative modeling and efficient deep learning.
+- **SpeakToDeck** — Locally transcribe and translate your audio, then import it straight into your Anki deck. Built with Python + Streamlit + local-LLM APIs.
+- **LensTranslate** — Paste a screenshot or TikTok link to get instant translations overlaid on the image. Uses OCR and real-time translation to convert foreign text in place, supporting 6 languages across web and mobile. Built with TypeScript · Python · React.
+- **Benefits Digger** *(hackathon)* — Full-stack benefits-eligibility screener (FastAPI · SQLite/SQLAlchemy · Vanilla JS) with a multi-factor explainability breakdown and Google Gemini 2.5 Flash generating state-specific program catalogs on demand.
 
 ### 🧰 Tools I use
 - **Languages:** Java · TypeScript · Python · C · SQL · HTML/CSS
-- **Frameworks:** React · Node.js · FastAPI · Streamlit · JUnit
-- **Tools & platforms:** Firebase · SQLite · Git · Vite · pytest · VS Code · IntelliJ
+- **Frameworks:** React · Node.js · FastAPI · Streamlit · PyTorch
+- **Tools & platforms:** Firebase · Qdrant · Ollama · SQLite · Git · Vite · pytest · VS Code · IntelliJ
 - **Building with AI:** Claude Code · MCP · Skills
 
 ### 📫 How to reach me

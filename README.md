@@ -17,10 +17,10 @@ software that solves a concrete problem and measurably improves on what it repla
 - **Benefits Digger** *(hackathon)* — Full-stack benefits-eligibility screener (FastAPI · SQLite/SQLAlchemy · Vanilla JS) with a multi-factor explainability breakdown and Google Gemini 2.5 Flash generating state-specific program catalogs on demand.
 
 ### 🧰 Tools I use
-- **Languages:** Java · TypeScript · Python · C · SQL · HTML/CSS
+- **Languages:** Java · C/C++ · Python · TypeScript · SQL · HTML/CSS
 - **Frameworks:** React · Node.js · FastAPI · Streamlit · PyTorch
 - **Tools & platforms:** Firebase · Qdrant · Ollama · SQLite · Git · Vite · pytest · VS Code · IntelliJ
-- **Building with AI:** Claude Code · MCP · Skills
+- **Building with AI:** Claude Code · MCPs · Skills · Agents
 
 ### 📫 How to reach me
 - ✉️ pierevco@gmail.com

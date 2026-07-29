@@ -4,7 +4,7 @@
 
 I enjoy a challenge. 
 
-### 🧰 Tools
+### 🧰 Skills
 - **Languages:** C/C++ · Java · Python · TypeScript · SQL · HTML/CSS
 - **AI/ML:** RAG · PyTorch · Diffusion Models · Qdrant · BGE-M3 · Whisper
 - **Frameworks:** React.js · Node.js · FastAPI · React Native (Expo) · Streamlit · REST APIs
